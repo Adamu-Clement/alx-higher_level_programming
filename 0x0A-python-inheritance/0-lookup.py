@@ -1,9 +1,9 @@
 #!/usr/bin/python3
-# 0- lookup.py
-#Adamu Clement 
+# 0-lookup.py
+# Adamu Clement  <adamuclementjatau@gmail.com>
+"""Defines an object attribute lookup function."""
 
-"""Defines an objects attribute lookup function."""
 
 def lookup(obj):
     """Return a list of an object's available attributes."""
-    return(dir(obj))
+    return (dir(obj))
