@@ -1,5 +1,3 @@
-
-
 #!/usr/bin/python3
 """
 inherits_from function module.
